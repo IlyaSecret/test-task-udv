@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat';
+    font-weight: normal;
+	font-style: normal;
+}
+
+body{
+    background-color: #5e5e5e;
+    padding-top: 40px;
+}
+
+svg path{
+    fill: #fff;
+    margin: 0 auto;
+}
+#root{
+    width: 900px;
+    background-color: #1c1c1c;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0 auto;
+    border-radius: 15px;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.EmojiPickerReact {
+    position: absolute !important;
+    left: 55%;
+    top: 28%;
+}
